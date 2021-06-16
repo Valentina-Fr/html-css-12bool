@@ -1,0 +1,19 @@
+/* RESET */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* MAIN */
+
+.container {
+    min-height: 600px;
+    background-color: #ffc0cb;
+}
+
+.col {
+    min-height: 200px;
+    border: 1px solid black;
+}
