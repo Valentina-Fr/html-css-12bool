@@ -20,3 +20,17 @@
     min-height: 200px;
     border: 1px solid black;
 }
+
+.nested {
+    background-color: #f07f80;
+    border: 1px solid white;
+}
+
+.m-5 {
+    margin: 5px;
+}
+
+.nested-row {
+    width: calc(100% - 10px);
+    height: calc(100% - 10px);
+}
